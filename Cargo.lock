@@ -32,7 +32,7 @@ checksum = "f8ca58f447f06ed17d5fc4043ce1b10dd205e060fb3ce5b979b8ed8e59ff3f79"
 [[package]]
 name = "pleme-actions-shared"
 version = "0.1.1"
-source = "git+https://github.com/pleme-io/pleme-actions-shared#3187b48ca847573d73483af6d2d46b678b28a96d"
+source = "git+https://github.com/pleme-io/pleme-actions-shared#909ee7642e5e4012bf1ba53365994aaaecbb6279"
 dependencies = [
  "serde",
  "serde_json",
