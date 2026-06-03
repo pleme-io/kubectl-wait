@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "cargo_lock_sha256": "9551d673734608da2c396b763208cda42aad9d5be5a3b7637fd37547ffd07927",
+  "cargo_lock_sha256": "eedf4655e06f8592d3387a0caee7b8255f6982949cd1255c6fcb215a3abdd8d1",
   "target_resolves": {
     "base": {
       "anyhow-1.0.102": {
@@ -16,7 +16,7 @@
         "build_dependencies": [],
         "features": []
       },
-      "kubectl-wait-0.1.2": {
+      "kubectl-wait-0.1.3": {
         "runtime_dependencies": [
           {
             "name": "anyhow",
@@ -412,7 +412,7 @@
     "itoa-1.0.18": {
       "edition": "2021"
     },
-    "kubectl-wait-0.1.2": {
+    "kubectl-wait-0.1.3": {
       "edition": "2024",
       "binaries": [
         {
